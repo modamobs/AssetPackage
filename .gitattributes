@@ -2,4 +2,3 @@
 *psd filter=lfs diff=lfs merge=lfs -text
 *tga filter=lfs diff=lfs merge=lfs -text
 Assets/SineVFX/TopDownEffects/_Packages/Step_1_CoreResources.unitypackage filter=lfs diff=lfs merge=lfs -text
-*.unitypackage filter=lfs diff=lfs merge=lfs -text
