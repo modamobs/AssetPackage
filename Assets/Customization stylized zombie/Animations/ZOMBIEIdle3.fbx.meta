@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 13805f6cdd704ac459f2b9c026b12c01
+timeCreated: 1532381239
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arms_J
+    100002: Head_J
+    100004: Hip_J
+    100006: Jaw_J
+    100008: L_Collarbone_J
+    100010: L_Elbow_J
+    100012: L_Eyebrow_J
+    100014: L_Foot_J
+    100016: L_Index01_J
+    100018: L_Index02_J
+    100020: L_Knee_J
+    100022: L_LegTop_J
+    100024: L_Lit01_J
+    100026: L_Lit02_J
+    100028: L_Middle01_J
+    100030: L_Middle02_J
+    100032: L_Shoulder_J
+    100034: L_Thumb01_J
+    100036: L_Thumb02_J
+    100038: L_Toe_J
+    100040: L_Wrist_J
+    100042: Neck_J
+    100044: R_Collarbone_J
+    100046: R_Elbow_J
+    100048: R_Eyebrow_J
+    100050: R_Foot_J
+    100052: R_Index01_J
+    100054: R_Index02_J
+    100056: R_Knee_J
+    100058: R_Middle01_J
+    100060: R_Middle02_J
+    100062: R_RegTop_J
+    100064: R_Rit01_J
+    100066: R_Rit02_J
+    100068: R_Shoulder_J
+    100070: R_Thumb01_J
+    100072: R_Thumb02_J
+    100074: R_Toe_J
+    100076: R_Wrist_J
+    100078: Spine01_J
+    100080: Spine02_J
+    100082: //RootNode
+    400000: Arms_J
+    400002: Head_J
+    400004: Hip_J
+    400006: Jaw_J
+    400008: L_Collarbone_J
+    400010: L_Elbow_J
+    400012: L_Eyebrow_J
+    400014: L_Foot_J
+    400016: L_Index01_J
+    400018: L_Index02_J
+    400020: L_Knee_J
+    400022: L_LegTop_J
+    400024: L_Lit01_J
+    400026: L_Lit02_J
+    400028: L_Middle01_J
+    400030: L_Middle02_J
+    400032: L_Shoulder_J
+    400034: L_Thumb01_J
+    400036: L_Thumb02_J
+    400038: L_Toe_J
+    400040: L_Wrist_J
+    400042: Neck_J
+    400044: R_Collarbone_J
+    400046: R_Elbow_J
+    400048: R_Eyebrow_J
+    400050: R_Foot_J
+    400052: R_Index01_J
+    400054: R_Index02_J
+    400056: R_Knee_J
+    400058: R_Middle01_J
+    400060: R_Middle02_J
+    400062: R_RegTop_J
+    400064: R_Rit01_J
+    400066: R_Rit02_J
+    400068: R_Shoulder_J
+    400070: R_Thumb01_J
+    400072: R_Thumb02_J
+    400074: R_Toe_J
+    400076: R_Wrist_J
+    400078: Spine01_J
+    400080: Spine02_J
+    400082: //RootNode
+    7400000: Idle3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle3
+      takeName: Idle3
+      firstFrame: 201
+      lastFrame: 369
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip_J
+        weight: 1
+      - path: Hip_J/L_LegTop_J
+        weight: 1
+      - path: Hip_J/L_LegTop_J/L_Knee_J
+        weight: 1
+      - path: Hip_J/L_LegTop_J/L_Knee_J/L_Foot_J
+        weight: 1
+      - path: Hip_J/L_LegTop_J/L_Knee_J/L_Foot_J/L_Toe_J
+        weight: 1
+      - path: Hip_J/R_RegTop_J
+        weight: 1
+      - path: Hip_J/R_RegTop_J/R_Knee_J
+        weight: 1
+      - path: Hip_J/R_RegTop_J/R_Knee_J/R_Foot_J
+        weight: 1
+      - path: Hip_J/R_RegTop_J/R_Knee_J/R_Foot_J/R_Toe_J
+        weight: 1
+      - path: Hip_J/Spine01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Index01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Index01_J/L_Index02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Lit01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Lit01_J/L_Lit02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Middle01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Middle01_J/L_Middle02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Thumb01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/L_Collarbone_J/L_Shoulder_J/L_Elbow_J/L_Wrist_J/L_Thumb01_J/L_Thumb02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/Neck_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/Neck_J/Head_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/Neck_J/Head_J/Jaw_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/Neck_J/Head_J/L_Eyebrow_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/Neck_J/Head_J/R_Eyebrow_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/Arms_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Index01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Index01_J/R_Index02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Middle01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Middle01_J/R_Middle02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Rit01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Rit01_J/R_Rit02_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Thumb01_J
+        weight: 1
+      - path: Hip_J/Spine01_J/Spine02_J/R_Collarbone_J/R_Shoulder_J/R_Elbow_J/R_Wrist_J/R_Thumb01_J/R_Thumb02_J
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
